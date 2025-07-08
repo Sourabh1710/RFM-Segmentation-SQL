@@ -50,6 +50,7 @@ We used quantile binning to assign scores from 1 (lowest) to 5 (highest), and co
 | `Online Retail.csv`             | Cleaned dataset used for analysis        |
 | `Ecommerce_RFM_Segmentation.ipynb` | Jupyter Notebook with full SQL + logic |
 | `README.md`                     | This project summary file                |
+| - **Source**                    | Kaggle — [UK RRetail Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) |
 
 ---
 
